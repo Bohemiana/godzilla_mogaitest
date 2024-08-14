@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="godzillac:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1790292-0111-498b-af30-26dd8adc69fe" name="Changes" comment="test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/lib/godzilla.jar!/shells/cryptions/cshapAes/template/asmxRequestEx.bin" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/lib/godzilla.jar!/shells/cryptions/cshapAes/template/base64.bin" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/lib/godzilla.jar!/shells/cryptions/cshapAes/template/csharpShellExbase64.bin" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/lib/godzilla.jar!/shells/cryptions/cshapAes/template/csharpShellExshellAsmx.asmx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/lib/godzilla.jar!/shells/cryptions/cshapAes/template/eval.bin" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/lib/godzilla.jar!/shells/cryptions/cshapAes/template/evalShell.bin" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/lib/godzilla.jar!/shells/cryptions/cshapAes/template/raw.bin" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/lib/godzilla.jar!/shells/cryptions/cshapAes/template/shell.ashx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/lib/godzilla.jar!/shells/cryptions/cshapAes/template/shell.aspx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/lib/godzilla.jar!/shells/cryptions/cshapAes/template/shellAsmx.asmx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2izUTlbTJ82LkMZdOVNg1myKg7J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/damddos/202407/godzilla",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JAR Application.godzillac.jar">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="godzillac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainActivity (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.ui.MainActivity" />
+      <module name="godzillac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainActivity (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.ui.MainActivity" />
+      <module name="godzillac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.ui.MainActivity" />
+      <module name="godzillac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="godzillac.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/godzillac_jar/godzillac.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.godzillac.jar" />
+        <item itemvalue="Application.MainActivity" />
+        <item itemvalue="Application.MainActivity (3)" />
+        <item itemvalue="Application.MainActivity (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1790292-0111-498b-af30-26dd8adc69fe" name="Changes" comment="" />
+      <created>1720492911584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720492911584</updated>
+      <workItem from="1720492913145" duration="1557000" />
+      <workItem from="1720494506097" duration="10161000" />
+      <workItem from="1720576653784" duration="5536000" />
+      <workItem from="1720686165387" duration="6806000" />
+      <workItem from="1720766802384" duration="6702000" />
+      <workItem from="1721030744268" duration="5389000" />
+      <workItem from="1721090661931" duration="15902000" />
+      <workItem from="1721176976701" duration="5429000" />
+      <workItem from="1721264258158" duration="803000" />
+      <workItem from="1721353862540" duration="5484000" />
+      <workItem from="1721629270079" duration="10169000" />
+      <workItem from="1721695270085" duration="2005000" />
+      <workItem from="1721791897686" duration="812000" />
+      <workItem from="1721963684987" duration="5429000" />
+      <workItem from="1722585644301" duration="4139000" />
+      <workItem from="1722819022851" duration="7233000" />
+      <workItem from="1722904424772" duration="10871000" />
+      <workItem from="1722990772315" duration="2149000" />
+      <workItem from="1723449166271" duration="8319000" />
+      <workItem from="1723509896730" duration="15841000" />
+      <workItem from="1723595836464" duration="1402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bin" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/src" />
+    </ignored-roots>
+    <MESSAGE value="aaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaaa" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/shells/cryptions/cshapAes/Generate.java</url>
+          <line>56</line>
+          <properties class="shells.cryptions.cshapAes.Generate" method="GenerateShellLoderByAsmx">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/shells/cryptions/cshapAes/Generate.java</url>
+          <line>71</line>
+          <properties class="shells.cryptions.cshapAes.Generate" method="GenerateShellLoderByAsmx">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/shells/cryptions/cshapAes/Generate.java</url>
+          <line>53</line>
+          <properties class="shells.cryptions.cshapAes.Generate" method="GenerateShellLoder">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/shells/cryptions/cshapAes/Generate.java</url>
+          <line>20</line>
+          <properties class="shells.cryptions.cshapAes.Generate" method="GenerateShellLoder">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shells/cryptions/cshapAes/Generate.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shells/cryptions/cshapAes/Generate.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shells/cryptions/cshapAes/Generate.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shells/cryptions/cshapAes/Generate.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shells/cryptions/cshapAes/Generate.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/godzillac$godzillac_jar.ic" NAME="godzillac.jar Coverage Results" MODIFIED="1723529836833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/godzillac$MainActivity.ic" NAME="MainActivity Coverage Results" MODIFIED="1720690013643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>core.ui.*</FILTER>
+    </SUITE>
+  </component>
+</project>

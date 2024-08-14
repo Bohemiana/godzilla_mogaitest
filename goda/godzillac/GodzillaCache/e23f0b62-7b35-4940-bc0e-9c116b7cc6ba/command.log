@@ -1,0 +1,433 @@
+c:/windows/system32/inetsrv/ >ls
+
+'ls' ????????????????????????快????
+?????????????
+c:/windows/system32/inetsrv/ >dir
+
+?????? C ?快????忌????
+ ??????抗??? 6C2B-9866
+
+ c:\windows\system32\inetsrv ????
+
+2024/07/03  18:56    <DIR>          .
+2024/07/03  18:56    <DIR>          ..
+2024/02/28  16:28    <DIR>          0804
+2012/07/26  11:04           216,576 abocomp.dll
+2012/07/26  11:05           325,632 adsiis.dll
+2012/07/26  11:08           110,080 appcmd.exe
+2012/06/02  22:30             3,654 appcmd.xml
+2012/07/26  11:05           179,712 AppHostNavigators.dll
+2012/07/26  11:05            65,024 apphostsvc.dll
+2012/07/26  11:05           368,640 appobj.dll
+2012/07/26  11:05           519,168 asp.dll
+2012/07/26  04:14            22,196 asp.mof
+2012/07/26  11:08           128,512 aspnetca.exe
+2012/07/26  10:34            22,528 asptlb.tlb
+2012/07/26  11:05            38,912 authanon.dll
+2012/07/26  11:05            33,792 authbas.dll
+2012/07/26  11:05            23,552 authcert.dll
+2012/07/26  11:05            40,960 authmap.dll
+2012/07/26  11:05            37,376 authmd5.dll
+2012/07/26  11:05            48,128 authsspi.dll
+2012/07/26  11:05            76,288 browscap.dll
+2024/02/28  09:06            34,474 browscap.ini
+2012/07/26  11:05            25,088 cachfile.dll
+2012/07/26  11:05            48,640 cachhttp.dll
+2012/07/26  11:05            13,312 cachtokn.dll
+2012/07/26  11:05            14,336 cachuri.dll
+2012/07/26  11:05            73,216 certobj.dll
+2012/07/26  11:05            40,448 cgi.dll
+2012/07/26  11:08            98,304 Cnfgprts.ocx
+2012/07/26  11:05            81,920 coadmin.dll
+2012/07/26  11:05            42,496 compdyn.dll
+2012/07/26  11:05            50,688 compstat.dll
+2024/02/27  21:18    <DIR>          config
+2012/07/26  11:05            41,984 custerr.dll
+2012/07/26  11:05            18,432 defdoc.dll
+2012/07/26  11:05            36,352 diprestr.dll
+2012/07/26  11:05            22,016 dirlist.dll
+2024/02/27  21:18    <DIR>          en
+2024/02/28  09:10    <DIR>          en-US
+2012/07/26  11:05            68,096 filter.dll
+2012/07/26  11:05            40,960 gzip.dll
+2024/07/03  18:56    <DIR>          History
+2012/07/26  11:05            20,480 httpmib.dll
+2012/07/26  11:05            16,896 hwebcore.dll
+2012/06/02  22:31            63,105 iis.msc
+2012/06/02  22:30            48,997 iis6.msc
+2012/07/26  11:05            24,064 iisadmin.dll
+2012/07/26  11:05         1,031,680 iiscfg.dll
+2012/07/26  11:05           318,976 iiscore.dll
+2012/07/26  11:05            97,792 iisetw.dll
+2012/07/26  11:05           101,888 iisext.dll
+2012/07/26  11:05            82,432 iisfcgi.dll
+2012/07/26  11:05           163,840 iisfreb.dll
+2012/07/26  11:05            86,528 iislog.dll
+2012/07/26  11:05           109,056 iisreg.dll
+2012/07/26  11:05            15,360 iisreqs.dll
+2012/07/26  10:34           220,160 iisres.dll
+2012/07/26  11:08            35,328 iisrstas.exe
+2012/07/26  11:08           174,592 iissetup.exe
+2012/07/26  11:05            63,488 iissyspr.dll
+2012/07/26  12:43            14,336 iisual.exe
+2012/07/26  11:05           263,168 iisui.dll
+2012/07/26  11:05            80,896 IISUiObj.dll
+2012/07/26  11:05           300,032 iisutil.dll
+2012/07/26  11:05           471,552 iisw3adm.dll
+2012/07/26  11:05           264,704 iiswmi.dll
+2012/07/26  11:05            30,720 iis_ssi.dll
+2012/07/26  11:08            16,384 inetinfo.exe
+2012/07/26  11:05         1,006,080 inetmgr.dll
+2012/07/26  11:08           125,952 InetMgr.exe
+2012/07/26  11:08            24,576 InetMgr6.exe
+2012/07/26  11:05           267,776 infocomm.dll
+2012/07/26  11:05            28,160 iprestr.dll
+2012/07/26  11:05           115,200 isapi.dll
+2012/07/26  11:05            65,024 isatq.dll
+2012/07/26  11:05            23,040 iscomlog.dll
+2012/07/26  11:05            20,992 logcust.dll
+2012/07/26  11:05            18,944 loghttp.dll
+2012/07/26  11:05            37,888 logscrpt.dll
+2024/02/28  09:06               330 logtemp.sql
+2012/07/26  11:08            90,624 logui.ocx
+2024/02/28  16:27           685,464 MBSchema.bin.00000000h
+2024/02/28  16:27           266,906 MBSchema.xml
+2024/02/28  16:27    <DIR>          MetaBack
+2024/07/03  18:56            10,181 MetaBase.xml
+2012/07/26  11:06           278,528 metadata.dll
+2012/07/26  11:21           143,360 Microsoft.Web.Administration.dll
+2012/07/26  11:21         1,073,152 Microsoft.Web.Management.dll
+2012/07/26  11:06            41,472 modrqflt.dll
+2012/07/26  11:06           523,264 nativerd.dll
+2012/07/26  11:07            18,944 protsup.dll
+2012/07/26  11:07            19,968 redirect.dll
+2012/07/26  11:07             9,728 rpcref.dll
+2012/07/26  11:07            31,232 rsca.dll
+2012/07/26  11:07            55,296 rscaext.dll
+2012/07/26  11:07            36,864 static.dll
+2012/07/26  11:07            17,408 svcext.dll
+2012/07/26  11:07           186,368 uihelper.dll
+2012/07/26  11:07            22,016 urlauthz.dll
+2012/07/26  11:07            17,920 validcfg.dll
+2024/02/28  09:06           143,858 w3core.mof
+2012/07/26  11:07            14,336 w3ctrlps.dll
+2012/07/26  11:07            27,136 w3ctrs.dll
+2012/07/26  11:07            39,424 w3dt.dll
+2024/02/28  09:06             2,560 w3isapi.mof
+2012/07/26  11:07            24,576 w3tp.dll
+2012/07/26  11:08            22,528 w3wp.exe
+2012/07/26  11:07            64,000 w3wphost.dll
+2012/07/26  11:07            36,864 wamreg.dll
+2012/07/26  11:07            29,184 wbhstipm.dll
+2012/07/26  11:07            25,088 wbhst_pm.dll
+2012/07/26  04:14           477,134 WebAdministration.mof
+2012/07/26  11:07           180,736 webdav.dll
+2012/07/26  11:07            19,968 webdav_simple_lock.dll
+2012/07/26  11:07            19,456 webdav_simple_prop.dll
+2012/07/26  11:08           383,488 wmi-appserver.dll
+2012/07/26  11:08            10,752 WMSvc.exe
+2012/06/02  22:31               165 wmsvc.exe.config
+2012/07/26  11:08           167,424 XPath.dll
+2024/02/28  16:28    <DIR>          zh-CN
+             111 ?????     14,079,280 ???
+               9 ???? 33,073,577,984 ???????
+c:/windows/system32/inetsrv/ >whoami
+
+nt authority\system
+c:/windows/system32/inetsrv/ >ls
+
+'ls' ????????????????????????快????
+?????????????
+c:/windows/system32/inetsrv/ >whoami
+
+nt authority\system
+c:/windows/system32/inetsrv/ >ls
+'ls' ????????????????????????快????
+?????????????
+c:/windows/system32/inetsrv/ >
+
+NULL
+c:/windows/system32/inetsrv/ >dir
+?????? C ?快????忌????
+ ??????抗??? 6C2B-9866
+
+ c:\windows\system32\inetsrv ????
+
+2024/07/03  18:56    <DIR>          .
+2024/07/03  18:56    <DIR>          ..
+2024/02/28  16:28    <DIR>          0804
+2012/07/26  11:04           216,576 abocomp.dll
+2012/07/26  11:05           325,632 adsiis.dll
+2012/07/26  11:08           110,080 appcmd.exe
+2012/06/02  22:30             3,654 appcmd.xml
+2012/07/26  11:05           179,712 AppHostNavigators.dll
+2012/07/26  11:05            65,024 apphostsvc.dll
+2012/07/26  11:05           368,640 appobj.dll
+2012/07/26  11:05           519,168 asp.dll
+2012/07/26  04:14            22,196 asp.mof
+2012/07/26  11:08           128,512 aspnetca.exe
+2012/07/26  10:34            22,528 asptlb.tlb
+2012/07/26  11:05            38,912 authanon.dll
+2012/07/26  11:05            33,792 authbas.dll
+2012/07/26  11:05            23,552 authcert.dll
+2012/07/26  11:05            40,960 authmap.dll
+2012/07/26  11:05            37,376 authmd5.dll
+2012/07/26  11:05            48,128 authsspi.dll
+2012/07/26  11:05            76,288 browscap.dll
+2024/02/28  09:06            34,474 browscap.ini
+2012/07/26  11:05            25,088 cachfile.dll
+2012/07/26  11:05            48,640 cachhttp.dll
+2012/07/26  11:05            13,312 cachtokn.dll
+2012/07/26  11:05            14,336 cachuri.dll
+2012/07/26  11:05            73,216 certobj.dll
+2012/07/26  11:05            40,448 cgi.dll
+2012/07/26  11:08            98,304 Cnfgprts.ocx
+2012/07/26  11:05            81,920 coadmin.dll
+2012/07/26  11:05            42,496 compdyn.dll
+2012/07/26  11:05            50,688 compstat.dll
+2024/02/27  21:18    <DIR>          config
+2012/07/26  11:05            41,984 custerr.dll
+2012/07/26  11:05            18,432 defdoc.dll
+2012/07/26  11:05            36,352 diprestr.dll
+2012/07/26  11:05            22,016 dirlist.dll
+2024/02/27  21:18    <DIR>          en
+2024/02/28  09:10    <DIR>          en-US
+2012/07/26  11:05            68,096 filter.dll
+2012/07/26  11:05            40,960 gzip.dll
+2024/07/03  18:56    <DIR>          History
+2012/07/26  11:05            20,480 httpmib.dll
+2012/07/26  11:05            16,896 hwebcore.dll
+2012/06/02  22:31            63,105 iis.msc
+2012/06/02  22:30            48,997 iis6.msc
+2012/07/26  11:05            24,064 iisadmin.dll
+2012/07/26  11:05         1,031,680 iiscfg.dll
+2012/07/26  11:05           318,976 iiscore.dll
+2012/07/26  11:05            97,792 iisetw.dll
+2012/07/26  11:05           101,888 iisext.dll
+2012/07/26  11:05            82,432 iisfcgi.dll
+2012/07/26  11:05           163,840 iisfreb.dll
+2012/07/26  11:05            86,528 iislog.dll
+2012/07/26  11:05           109,056 iisreg.dll
+2012/07/26  11:05            15,360 iisreqs.dll
+2012/07/26  10:34           220,160 iisres.dll
+2012/07/26  11:08            35,328 iisrstas.exe
+2012/07/26  11:08           174,592 iissetup.exe
+2012/07/26  11:05            63,488 iissyspr.dll
+2012/07/26  12:43            14,336 iisual.exe
+2012/07/26  11:05           263,168 iisui.dll
+2012/07/26  11:05            80,896 IISUiObj.dll
+2012/07/26  11:05           300,032 iisutil.dll
+2012/07/26  11:05           471,552 iisw3adm.dll
+2012/07/26  11:05           264,704 iiswmi.dll
+2012/07/26  11:05            30,720 iis_ssi.dll
+2012/07/26  11:08            16,384 inetinfo.exe
+2012/07/26  11:05         1,006,080 inetmgr.dll
+2012/07/26  11:08           125,952 InetMgr.exe
+2012/07/26  11:08            24,576 InetMgr6.exe
+2012/07/26  11:05           267,776 infocomm.dll
+2012/07/26  11:05            28,160 iprestr.dll
+2012/07/26  11:05           115,200 isapi.dll
+2012/07/26  11:05            65,024 isatq.dll
+2012/07/26  11:05            23,040 iscomlog.dll
+2012/07/26  11:05            20,992 logcust.dll
+2012/07/26  11:05            18,944 loghttp.dll
+2012/07/26  11:05            37,888 logscrpt.dll
+2024/02/28  09:06               330 logtemp.sql
+2012/07/26  11:08            90,624 logui.ocx
+2024/02/28  16:27           685,464 MBSchema.bin.00000000h
+2024/02/28  16:27           266,906 MBSchema.xml
+2024/02/28  16:27    <DIR>          MetaBack
+2024/07/03  18:56            10,181 MetaBase.xml
+2012/07/26  11:06           278,528 metadata.dll
+2012/07/26  11:21           143,360 Microsoft.Web.Administration.dll
+2012/07/26  11:21         1,073,152 Microsoft.Web.Management.dll
+2012/07/26  11:06            41,472 modrqflt.dll
+2012/07/26  11:06           523,264 nativerd.dll
+2012/07/26  11:07            18,944 protsup.dll
+2012/07/26  11:07            19,968 redirect.dll
+2012/07/26  11:07             9,728 rpcref.dll
+2012/07/26  11:07            31,232 rsca.dll
+2012/07/26  11:07            55,296 rscaext.dll
+2012/07/26  11:07            36,864 static.dll
+2012/07/26  11:07            17,408 svcext.dll
+2012/07/26  11:07           186,368 uihelper.dll
+2012/07/26  11:07            22,016 urlauthz.dll
+2012/07/26  11:07            17,920 validcfg.dll
+2024/02/28  09:06           143,858 w3core.mof
+2012/07/26  11:07            14,336 w3ctrlps.dll
+2012/07/26  11:07            27,136 w3ctrs.dll
+2012/07/26  11:07            39,424 w3dt.dll
+2024/02/28  09:06             2,560 w3isapi.mof
+2012/07/26  11:07            24,576 w3tp.dll
+2012/07/26  11:08            22,528 w3wp.exe
+2012/07/26  11:07            64,000 w3wphost.dll
+2012/07/26  11:07            36,864 wamreg.dll
+2012/07/26  11:07            29,184 wbhstipm.dll
+2012/07/26  11:07            25,088 wbhst_pm.dll
+2012/07/26  04:14           477,134 WebAdministration.mof
+2012/07/26  11:07           180,736 webdav.dll
+2012/07/26  11:07            19,968 webdav_simple_lock.dll
+2012/07/26  11:07            19,456 webdav_simple_prop.dll
+2012/07/26  11:08           383,488 wmi-appserver.dll
+2012/07/26  11:08            10,752 WMSvc.exe
+2012/06/02  22:31               165 wmsvc.exe.config
+2012/07/26  11:08           167,424 XPath.dll
+2024/02/28  16:28    <DIR>          zh-CN
+             111 ?????     14,079,280 ???
+               9 ???? 33,073,709,056 ???????
+c:/windows/system32/inetsrv/ >
+
+NULL
+c:/windows/system32/inetsrv/ >ls
+'ls' ????????????????????????快????
+?????????????
+c:/windows/system32/inetsrv/ >
+
+NULL
+c:/windows/system32/inetsrv/ >dir
+?????? C ?快????忌????
+ ??????抗??? 6C2B-9866
+
+ c:\windows\system32\inetsrv ????
+
+2024/07/03  18:56    <DIR>          .
+2024/07/03  18:56    <DIR>          ..
+2024/02/28  16:28    <DIR>          0804
+2012/07/26  11:04           216,576 abocomp.dll
+2012/07/26  11:05           325,632 adsiis.dll
+2012/07/26  11:08           110,080 appcmd.exe
+2012/06/02  22:30             3,654 appcmd.xml
+2012/07/26  11:05           179,712 AppHostNavigators.dll
+2012/07/26  11:05            65,024 apphostsvc.dll
+2012/07/26  11:05           368,640 appobj.dll
+2012/07/26  11:05           519,168 asp.dll
+2012/07/26  04:14            22,196 asp.mof
+2012/07/26  11:08           128,512 aspnetca.exe
+2012/07/26  10:34            22,528 asptlb.tlb
+2012/07/26  11:05            38,912 authanon.dll
+2012/07/26  11:05            33,792 authbas.dll
+2012/07/26  11:05            23,552 authcert.dll
+2012/07/26  11:05            40,960 authmap.dll
+2012/07/26  11:05            37,376 authmd5.dll
+2012/07/26  11:05            48,128 authsspi.dll
+2012/07/26  11:05            76,288 browscap.dll
+2024/02/28  09:06            34,474 browscap.ini
+2012/07/26  11:05            25,088 cachfile.dll
+2012/07/26  11:05            48,640 cachhttp.dll
+2012/07/26  11:05            13,312 cachtokn.dll
+2012/07/26  11:05            14,336 cachuri.dll
+2012/07/26  11:05            73,216 certobj.dll
+2012/07/26  11:05            40,448 cgi.dll
+2012/07/26  11:08            98,304 Cnfgprts.ocx
+2012/07/26  11:05            81,920 coadmin.dll
+2012/07/26  11:05            42,496 compdyn.dll
+2012/07/26  11:05            50,688 compstat.dll
+2024/02/27  21:18    <DIR>          config
+2012/07/26  11:05            41,984 custerr.dll
+2012/07/26  11:05            18,432 defdoc.dll
+2012/07/26  11:05            36,352 diprestr.dll
+2012/07/26  11:05            22,016 dirlist.dll
+2024/02/27  21:18    <DIR>          en
+2024/02/28  09:10    <DIR>          en-US
+2012/07/26  11:05            68,096 filter.dll
+2012/07/26  11:05            40,960 gzip.dll
+2024/07/03  18:56    <DIR>          History
+2012/07/26  11:05            20,480 httpmib.dll
+2012/07/26  11:05            16,896 hwebcore.dll
+2012/06/02  22:31            63,105 iis.msc
+2012/06/02  22:30            48,997 iis6.msc
+2012/07/26  11:05            24,064 iisadmin.dll
+2012/07/26  11:05         1,031,680 iiscfg.dll
+2012/07/26  11:05           318,976 iiscore.dll
+2012/07/26  11:05            97,792 iisetw.dll
+2012/07/26  11:05           101,888 iisext.dll
+2012/07/26  11:05            82,432 iisfcgi.dll
+2012/07/26  11:05           163,840 iisfreb.dll
+2012/07/26  11:05            86,528 iislog.dll
+2012/07/26  11:05           109,056 iisreg.dll
+2012/07/26  11:05            15,360 iisreqs.dll
+2012/07/26  10:34           220,160 iisres.dll
+2012/07/26  11:08            35,328 iisrstas.exe
+2012/07/26  11:08           174,592 iissetup.exe
+2012/07/26  11:05            63,488 iissyspr.dll
+2012/07/26  12:43            14,336 iisual.exe
+2012/07/26  11:05           263,168 iisui.dll
+2012/07/26  11:05            80,896 IISUiObj.dll
+2012/07/26  11:05           300,032 iisutil.dll
+2012/07/26  11:05           471,552 iisw3adm.dll
+2012/07/26  11:05           264,704 iiswmi.dll
+2012/07/26  11:05            30,720 iis_ssi.dll
+2012/07/26  11:08            16,384 inetinfo.exe
+2012/07/26  11:05         1,006,080 inetmgr.dll
+2012/07/26  11:08           125,952 InetMgr.exe
+2012/07/26  11:08            24,576 InetMgr6.exe
+2012/07/26  11:05           267,776 infocomm.dll
+2012/07/26  11:05            28,160 iprestr.dll
+2012/07/26  11:05           115,200 isapi.dll
+2012/07/26  11:05            65,024 isatq.dll
+2012/07/26  11:05            23,040 iscomlog.dll
+2012/07/26  11:05            20,992 logcust.dll
+2012/07/26  11:05            18,944 loghttp.dll
+2012/07/26  11:05            37,888 logscrpt.dll
+2024/02/28  09:06               330 logtemp.sql
+2012/07/26  11:08            90,624 logui.ocx
+2024/02/28  16:27           685,464 MBSchema.bin.00000000h
+2024/02/28  16:27           266,906 MBSchema.xml
+2024/02/28  16:27    <DIR>          MetaBack
+2024/07/03  18:56            10,181 MetaBase.xml
+2012/07/26  11:06           278,528 metadata.dll
+2012/07/26  11:21           143,360 Microsoft.Web.Administration.dll
+2012/07/26  11:21         1,073,152 Microsoft.Web.Management.dll
+2012/07/26  11:06            41,472 modrqflt.dll
+2012/07/26  11:06           523,264 nativerd.dll
+2012/07/26  11:07            18,944 protsup.dll
+2012/07/26  11:07            19,968 redirect.dll
+2012/07/26  11:07             9,728 rpcref.dll
+2012/07/26  11:07            31,232 rsca.dll
+2012/07/26  11:07            55,296 rscaext.dll
+2012/07/26  11:07            36,864 static.dll
+2012/07/26  11:07            17,408 svcext.dll
+2012/07/26  11:07           186,368 uihelper.dll
+2012/07/26  11:07            22,016 urlauthz.dll
+2012/07/26  11:07            17,920 validcfg.dll
+2024/02/28  09:06           143,858 w3core.mof
+2012/07/26  11:07            14,336 w3ctrlps.dll
+2012/07/26  11:07            27,136 w3ctrs.dll
+2012/07/26  11:07            39,424 w3dt.dll
+2024/02/28  09:06             2,560 w3isapi.mof
+2012/07/26  11:07            24,576 w3tp.dll
+2012/07/26  11:08            22,528 w3wp.exe
+2012/07/26  11:07            64,000 w3wphost.dll
+2012/07/26  11:07            36,864 wamreg.dll
+2012/07/26  11:07            29,184 wbhstipm.dll
+2012/07/26  11:07            25,088 wbhst_pm.dll
+2012/07/26  04:14           477,134 WebAdministration.mof
+2012/07/26  11:07           180,736 webdav.dll
+2012/07/26  11:07            19,968 webdav_simple_lock.dll
+2012/07/26  11:07            19,456 webdav_simple_prop.dll
+2012/07/26  11:08           383,488 wmi-appserver.dll
+2012/07/26  11:08            10,752 WMSvc.exe
+2012/06/02  22:31               165 wmsvc.exe.config
+2012/07/26  11:08           167,424 XPath.dll
+2024/02/28  16:28    <DIR>          zh-CN
+             111 ?????     14,079,280 ???
+               9 ???? 33,445,699,584 ???????
+c:/windows/system32/inetsrv/ >
+
+NULL
+c:/windows/system32/inetsrv/ >calc
+
+c:/windows/system32/inetsrv/ >
+
+NULL
+c:/windows/system32/inetsrv/ >
+
+NULL
+c:/windows/system32/inetsrv/ >
+NULL
+c:/windows/system32/inetsrv/ >
+
+NULL
+c:/windows/system32/inetsrv/ >
+
+NULL

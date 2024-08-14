@@ -1,0 +1,9 @@
+/www/wwwroot/php/ >ls
+
+none of proc_open/passthru/shell_exec/exec/exec/popen/COM/runshellshock/pcntl_exec is available
+/www/wwwroot/php/ >id
+
+none of proc_open/passthru/shell_exec/exec/exec/popen/COM/runshellshock/pcntl_exec is available
+/www/wwwroot/php/ >id
+
+none of proc_open/passthru/shell_exec/exec/exec/popen/COM/runshellshock/pcntl_exec is available
