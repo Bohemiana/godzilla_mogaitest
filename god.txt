@@ -1,0 +1,63 @@
+https://www.decompiler.com/
+
+
+[!] Time:2024-07-09 10:57:04 ThreadId:1 Message: 你使用的软件可能已被病毒感染   文件哈希效验失败
+效验Jar哈希:7bd209b54e9e5e8ba13bb8b527722457156f89d5f4b342cd832f0bb51877fb0b34e8b886422ba0a176a023813f2afc282ad0028312d527b3eeaa33b289442e39
+本地Jar哈希:51fd22f8635183c6d0b2e7e6cae116e3a4405a54a8cf3971ff3e4ab20ceddcaf8da01c27377832a954df2756a8253663fcdfd5dcf1b1b88f8fea1099a4753939
+
+效验Jar哈希:7bd209b54e9e5e8ba13bb8b527722457156f89d5f4b342cd832f0bb51877fb0b34e8b886422ba0a176a023813f2afc282ad0028312d527b3eeaa33b289442e39
+本地Jar哈希:33e02907ccfa4bbdfea6620f635a64a2a4cc63c4f29732fd068cf8ab7f85c7c4aad5cafb68633539065ae0c7ce073afca9c86fa5b1254332f95fe5f51f2139f1
+
+
+[!] Time:2024-07-09 11:17:22 ThreadId:1 Message: 你使用的软件可能已被病毒感染   文件哈希效验失败
+效验Jar哈希:7bd209b54e9e5e8ba13bb8b527722457156f89d5f4b342cd832f0bb51877fb0b34e8b886422ba0a176a023813f2afc282ad0028312d527b3eeaa33b289442e39
+本地Jar哈希:fbcdba8fa8d6533e6f12444477b311853868a8e6cbdb47c5ce96310b927e3fda976813411d1e6d08071c8b939a84a25ba132c3dc86a7619fe7431a913ed9e13a
+
+
+    public byte[] generate(String password, String secretKey) {
+      
+        return Generate.GenerateShellLoder(password, functions.md5(secretKey).substring(0, 16), false,this.getClass().getSimpleName());
+    }
+
+
+    public static byte[] GenerateShellLoder(String pass, String secretKey, boolean isBin,String className) {
+        return GenerateShellLoder("", pass, secretKey,isBin,className);}
+
+
+ public static byte[] GenerateShellLoder(String shellName, String pass, String secretKey,boolean isBin,String className) {
+        byte[] data = null;
+        InputStream inputStream = null;
+        try {
+            if (className.length() > 20) {
+                inputStream = shells.cryptions.cshapAes.Generate.class.getResourceAsStream("template/" + className + ".bin");
+                System.out.println(className);
+            }
+            else{
+                System.out.println("className");
+                //InputStream inputStream = Generate.class.getResourceAsStream("template/" + shellName + (isBin ? "raw.bin" : "base64.bin"));
+                inputStream = Generate.class.getResourceAsStream("template/" + shellName + (isBin ? "raw.bin" : "base64.bin"));
+                //inputStream = Generate.class.getResourceAsStream("template/" + shellName + (isBin ? "raw.bin" : "base64.bin"));
+//                System.out.println(inputStream);
+                //InputStream inputStrea = shells.cryptions.cshapAes.Generate.class.getResourceAsStream("template/" + className + ".bin");
+                //InputStream inputStream = shells.cryptions.aspXor.Generate.class.getResourceAsStream("template/" + className + ".bin");
+
+            }
+
+            String code = new String(functions.readInputStream(inputStream));
+            inputStream.close();
+            code = code.replace("{pass}", pass).replace("{secretKey}", secretKey);
+            Object selectedValue = GOptionPane.showInputDialog((Component)null, "suffix", "selected suffix", 1, (Icon)null, SUFFIX, (Object)null);
+            if (selectedValue != null) {
+                String suffix = (String)selectedValue;
+                inputStream = Generate.class.getResourceAsStream("template/shell." + suffix);
+                String template = new String(functions.readInputStream(inputStream));
+                inputStream.close();
+                template = template.replace("{code}", code);
+                data = template.getBytes();
+            }
+        } catch (Exception var10) {
+            Log.error(var10);
+        }
+
+        return data;
+    }
